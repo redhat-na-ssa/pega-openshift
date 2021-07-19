@@ -5,6 +5,7 @@ This repository is an unofficial guide to installing Pega on an OpenShift cluste
 ## Prerequisites
 - OpenShift 4.7.x cluster with a minimum of 3 worker nodes with 32GB RAM
 - Valid credentials to Pega images **pega-docker.downloads.pega.com** 
+- The *prereqs* directory contains a template to create the required postgresql database for the Pega installation.
 
 ## Installation Steps
 
